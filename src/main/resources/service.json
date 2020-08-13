@@ -1,0 +1,12 @@
+[
+  {
+    "serviceId": "1000",
+    "serviceInterface": "com.i.lubov.service.OperationLogService",
+    "serviceMethod": "list"
+  },
+  {
+    "serviceId": "1001",
+    "serviceInterface": "com.i.lubov.service.OperationLogService",
+    "serviceMethod": "test"
+  }
+]
